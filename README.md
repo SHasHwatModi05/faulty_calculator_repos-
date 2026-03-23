@@ -68,8 +68,4 @@ Faulty-Calculator/
 ```
 
 
----
 
-## ⭐ Acknowledgement
-
-If you found this project interesting, consider giving it a star ⭐ on GitHub.
