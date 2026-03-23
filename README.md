@@ -6,9 +6,8 @@ A lightweight and fun JavaScript-based calculator that intentionally produces in
 
 ## 🚀 Live Demo
 
-🔗 https://your-username.github.io/faulty-calculator/
+🔗 https://faultycal.netlify.app/
 
-> Replace the above link with your deployed GitHub Pages URL
 
 ---
 
